@@ -17,7 +17,7 @@ OS Module
 Datetime Module
 
 **How to Run**
-Clone this repository:
+**Clone this repository:**
 git clone https://github.com/YOUR-USERNAME/expense-tracker.git
 Open the project folder.
 Run the Python file:
